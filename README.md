@@ -1,4 +1,5 @@
 hello-word
 ==========
 
-This is just the hello world project
+Hi Humans! Just want to try commit.
+Maybe something else.
